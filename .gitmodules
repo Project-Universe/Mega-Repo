@@ -1,0 +1,45 @@
+[submodule ".github"]
+	path = .github
+	url = https://github.com/Project-Universe/.github
+[submodule "aesthetic-logger"]
+	path = aesthetic-logger
+	url = https://github.com/Project-Universe/aesthetic-logger
+[submodule "fluffy-succotash"]
+	path = fluffy-succotash
+	url = https://github.com/Project-Universe/fluffy-succotash
+[submodule "friendly-disco"]
+	path = friendly-disco
+	url = https://github.com/Project-Universe/friendly-disco
+[submodule "furry-tribble"]
+	path = furry-tribble
+	url = https://github.com/Project-Universe/furry-tribble
+[submodule "improved-happiness"]
+	path = improved-happiness
+	url = https://github.com/Project-Universe/improved-happiness
+[submodule "refactored-computing-machine"]
+	path = refactored-computing-machine
+	url = https://github.com/Project-Universe/refactored-computing-machine
+[submodule "Repo-Template"]
+	path = Repo-Template
+	url = https://github.com/Project-Universe/Repo-Template
+[submodule "standard-labels-action"]
+	path = standard-labels-action
+	url = https://github.com/Project-Universe/standard-labels-action
+[submodule "supreme-tribble"]
+	path = supreme-tribble
+	url = https://github.com/Project-Universe/supreme-tribble
+[submodule "sturdy-sniffle"]
+	path = sturdy-sniffle
+	url = https://github.com/Project-Universe/sturdy-sniffle
+[submodule "supreme-goggles"]
+	path = supreme-goggles
+	url = https://github.com/Project-Universe/supreme-goggles
+[submodule "supreme-tribble"]
+	path = supreme-tribble
+	url = https://github.com/Project-Universe/supreme-tribble
+[submodule "repo-template"]
+	path = repo-template
+	url = https://github.com/Project-Universe/repo-template
+[submodule "Backups"]
+	path = Backups
+	url = https://github.com/Project-Universe/Backups
