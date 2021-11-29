@@ -43,3 +43,6 @@
 [submodule "Backups"]
 	path = Backups
 	url = https://github.com/Project-Universe/Backups
+[submodule "support"]
+	path = support
+	url = https://github.com/Project-Universe/support
