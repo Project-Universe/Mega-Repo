@@ -46,3 +46,6 @@
 [submodule "support"]
 	path = support
 	url = https://github.com/Project-Universe/support
+[submodule "improved-octo-parakeet"]
+	path = improved-octo-parakeet
+	url = https://github.com/Project-Universe/improved-octo-parakeet
