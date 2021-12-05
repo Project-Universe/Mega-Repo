@@ -49,3 +49,6 @@
 [submodule "improved-octo-parakeet"]
 	path = improved-octo-parakeet
 	url = https://github.com/Project-Universe/improved-octo-parakeet
+[submodule "shiny-waffle"]
+	path = shiny-waffle
+	url = https://github.com/Project-Universe/shiny-waffle
